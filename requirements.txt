@@ -1,3 +1,5 @@
-openai
-langchain
+streamlit
+groq
 python-dotenv
+PyPDF2
+reportlab
